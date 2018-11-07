@@ -1,0 +1,6 @@
+#+TITLE: CTMC.jl
+#+AUTHOR: Stefanos Carlström
+#+EMAIL: stefanos.carlstrom@gmail.com
+
+A small library to simplify classical-trajectory-Monte Carlo
+simulations of electrons in the combined field of an ion and a laser.
